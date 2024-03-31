@@ -1,9 +1,6 @@
 # AOH_WeCode
 Ace of Hack (30/03/2024)
 
-App Name:- NestWatch
+App Name:- Momskitchen
 
-The tracking app is designed to monitor various activities within a household, including
-children's activities, grandparents' health and medication adherence, house camera tracking,
-and pet tracking. The app aims to provide parents with a comprehensive overview of what is
-happening in their home while they are away.
+Momskitchen is a service-providing app that connects home kitchens and people who want to order home-cooked food while they’re away from home or are wanting to have home-cooked food!
